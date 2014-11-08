@@ -5,7 +5,7 @@ public class ApplicationForReminder {
 	private static Reminder reminder = new Reminder();
 
 	public static void main (String[] args) {
-		Reminder reminder = verifyArguments(args);
+		verifyArguments(args);
 		reminder.showReminder();
 	}
 	
