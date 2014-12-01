@@ -1,6 +1,5 @@
-package edu.learn;
+package edu.learn.reminder;
 
-import edu.learn.reminder.ApplicationForReminder;
 
 public class Main {
 
